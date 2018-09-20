@@ -1,7 +1,8 @@
-# nature.baikal.ru-2-kml
+# nature.baikal.ru to kml
 
 ```
 npm i fs
 
 node convert.js
 ```
+
